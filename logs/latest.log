@@ -1,0 +1,86 @@
+[00:10:18] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
+[00:10:19] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
+[00:10:21] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:10:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:10:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:10:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:10:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:10:21] [Server thread/INFO]: Starting minecraft server version 20w14a
+[00:10:21] [Server thread/INFO]: Loading properties
+[00:10:21] [Server thread/INFO]: Default game type: SURVIVAL
+[00:10:22] [Server thread/INFO]: Generating keypair
+[00:10:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:10:22] [Server thread/INFO]: Using default channel type
+[00:10:23] [Server thread/INFO]: Preparing level "world"
+[00:10:23] [Server thread/INFO]: Reloading ResourceManager: Default
+[00:10:24] [Server thread/INFO]: Loaded 6 recipes
+[00:10:25] [Server thread/INFO]: Loaded 863 advancements
+[00:10:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:10:28] [Server thread/INFO]: Preparing spawn area: 0%
+[00:10:28] [Server thread/INFO]: Preparing spawn area: 0%
+[00:10:28] [Server thread/INFO]: Preparing spawn area: 0%
+[00:10:28] [Server thread/INFO]: Preparing spawn area: 0%
+[00:10:32] [User Authenticator #1/INFO]: UUID of player kafizzle1 is 3b02355e-37a2-4175-bbd2-ecf6644af598
+[00:10:37] [User Authenticator #2/INFO]: UUID of player kafizzle1 is 3b02355e-37a2-4175-bbd2-ecf6644af598
+[00:10:47] [Worker-2/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-1/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-2/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-1/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-1/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-1/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-1/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-2/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-3/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-2/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-3/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-1/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-1/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-3/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-1/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-3/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-2/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-2/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-3/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-2/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-2/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-1/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-1/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-2/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-2/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-1/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-1/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-2/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-2/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-1/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-1/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-2/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-1/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-2/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-1/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-2/INFO]: Preparing spawn area: 0%
+[00:10:47] [Server thread/INFO]: Preparing spawn area: 0%
+[00:10:47] [Worker-1/INFO]: Preparing spawn area: 0%
+[00:10:48] [Server thread/INFO]: Preparing spawn area: 81%
+[00:10:48] [Server thread/INFO]: Time elapsed: 21124 ms
+[00:10:48] [Server thread/INFO]: Done (25.015s)! For help, type "help"
+[00:10:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@576ab6bd[id=3b02355e-37a2-4175-bbd2-ecf6644af598,name=kafizzle1,properties={textures=[com.mojang.authlib.properties.Property@8b7dda3]},legacy=false] (/192.168.0.18:57823) lost connection: Disconnected
+[00:10:50] [Server thread/INFO]: kafizzle1[/192.168.0.18:57833] logged in with entity id 324 at (160.50837305652124, 64.0, -217.47938982697735)
+[00:10:50] [Server thread/INFO]: kafizzle1 joined the game
+[00:10:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2369ms or 47 ticks behind
+[00:14:47] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/841, l='world', x=171.63, y=61.00, z=-203.08]
+[00:15:09] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/895, l='world', x=172.87, y=61.00, z=-200.45]
+[00:15:43] [Server thread/INFO]: kafizzle1 lost connection: Disconnected
+[00:15:43] [Server thread/INFO]: kafizzle1 left the game
+[01:07:38] [Server thread/INFO]: Stopping the server
+[01:07:38] [Server thread/INFO]: Stopping server
+[01:07:38] [Server thread/INFO]: Saving players
+[01:07:38] [Server thread/INFO]: Saving worlds
+[01:07:38] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[01:07:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:07:38] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[01:07:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:07:38] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[01:07:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:07:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:07:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:07:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
