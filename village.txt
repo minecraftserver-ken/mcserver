@@ -1,2 +1,6 @@
 200 300 village
 -750 -750
+
+spawner 220 40 -220
+
+end origin 1010 57 0

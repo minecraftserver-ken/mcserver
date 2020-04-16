@@ -1,18 +1,23 @@
-[20:35:59] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
-[20:35:59] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
-[20:36:01] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:36:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:36:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:36:01] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:36:01] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:36:01] [Server thread/INFO]: Starting minecraft server version 20w14a
-[20:36:01] [Server thread/INFO]: Loading properties
-[20:36:01] [Server thread/INFO]: Default game type: SURVIVAL
-[20:36:01] [Server thread/INFO]: Generating keypair
-[20:36:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:36:01] [Server thread/INFO]: Using default channel type
-[20:36:02] [Server thread/INFO]: Preparing level "world"
-[20:36:02] [Server thread/INFO]: Reloading ResourceManager: Default
-[20:36:03] [Server thread/INFO]: Loaded 6 recipes
-[20:36:04] [Server thread/INFO]: Loaded 863 advancements
-[20:36:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:00:05] [Server thread/WARN]: Fetching packet for removed entity azq['Bamboo'/51553, l='world', x=203.13, y=72.89, z=-224.88]
+[00:01:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
+[00:02:31] [Server thread/WARN]: Fetching packet for removed entity azq['Air'/52303, l='world', x=172.86, y=61.00, z=-206.68]
+[00:02:31] [Server thread/WARN]: Fetching packet for removed entity azq['Air'/52303, l='world', x=172.86, y=61.00, z=-206.68]
+[00:05:49] [Server thread/INFO]: kafizzle1 lost connection: Disconnected
+[00:05:49] [Server thread/INFO]: kafizzle1 left the game
+[00:05:51] [Server thread/INFO]: SpecialKayayday lost connection: Disconnected
+[00:05:51] [Server thread/INFO]: SpecialKayayday left the game
+[00:08:04] [Server thread/INFO]: BillCrenis lost connection: Disconnected
+[00:08:04] [Server thread/INFO]: BillCrenis left the game
+[00:41:42] [Server thread/INFO]: Stopping the server
+[00:41:42] [Server thread/INFO]: Stopping server
+[00:41:42] [Server thread/INFO]: Saving players
+[00:41:42] [Server thread/INFO]: Saving worlds
+[00:41:42] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:41:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:41:42] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:41:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:41:42] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:41:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:41:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:41:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:41:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
